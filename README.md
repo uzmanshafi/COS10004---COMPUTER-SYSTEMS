@@ -1,2 +1,6 @@
-# COS10004---COMPUTER-SYSTEMS
-This Repo contains all my content for computer systems unit at Swinburne with the using of assembly code and simulated logic gates circuities 
+# COS10004 - COMPUTER SYSTEMS
+
+This Repo content is to be only viewed for educational purposes and not to plagarise and used as your own work.
+
+- Logic Gate Circuit Tasks.
+- Assembly Coding.
